@@ -1,0 +1,33 @@
+.subnails {
+  padding: 20px;
+  min-width: 340px;
+    height: 100vh;
+  .subnail-item {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    width: 100%;
+
+    .skeleton{
+     padding: 5px;
+     background-color: white;
+    }
+    
+    flex-direction: column;
+    .page-number {
+      font-size: 12px;
+    }
+    &:first-child{
+        margin-right: 10px;
+    }
+  }
+ 
+
+  .subnails-list{
+      .contianer{
+          display: flex;
+          flex-direction: row;
+      }
+
+  }
+}

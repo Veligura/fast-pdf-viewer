@@ -1,0 +1,13 @@
+{
+  "max_body_size": "50m",
+  "https_only": true,
+  "proxies": {
+      "/api": {
+        "origin": "https://server-pdf-api.herokuapp.com/api"
+      }
+  },
+  "root": "build/",
+  "routes": {
+    "/**": "index.html"
+  }
+}

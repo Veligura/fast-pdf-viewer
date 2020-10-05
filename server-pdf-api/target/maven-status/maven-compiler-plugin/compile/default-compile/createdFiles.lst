@@ -1,0 +1,10 @@
+com/pdf/demo/PDFFileDTO.class
+com/pdf/demo/services/FileSystemStorageService.class
+com/pdf/demo/utils/ShrinkerException.class
+com/pdf/demo/DemoApplication.class
+com/pdf/demo/services/StorageService.class
+com/pdf/demo/controller/PDFController.class
+com/pdf/demo/services/PDFService.class
+com/pdf/demo/utils/ShrinkPDF.class
+com/pdf/demo/services/PDFServiceImplementation.class
+com/pdf/demo/services/StorageException.class

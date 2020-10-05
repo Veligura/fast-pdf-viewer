@@ -1,0 +1,14 @@
+.main {
+  .list {
+      font-size: 16px;
+      & > * {
+          margin-bottom: 10px;
+      }
+  }
+  .buttons {
+    margin-top: 30px;
+    & > *:first-child {
+      margin-right: 20px;
+    }
+  }
+}
